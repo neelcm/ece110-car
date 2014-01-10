@@ -21,6 +21,7 @@ To run, ensure the arduino configuration matches the one shown below:
 ![alt tag](http://i.imgur.com/733JukY.png)
 
 And the sensor configuration is as follows:
+
 ![alt tag](http://i.imgur.com/bwRUAT0.png)
 
 Open tape_avoiding.ino in the Arduino IDE and hit 'Verify/Compile'
